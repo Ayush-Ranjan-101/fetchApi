@@ -22,3 +22,4 @@ function factPoints(fact){
 }
 
 catFacts();
+console.log('Hello World *X*');
